@@ -1,8 +1,6 @@
-# Интеллектуальный анализ данных
+# Программирование на языке Python для сбора и анализа данных
 
-Репозиторий с материалами курса по введению в программирование на Python для майнора "Интеллектуальный анализ данных". ИАД-8
-
-Jupyter notebooks к семинарам с именами, включающими '01','02' и '03', на самом деле относятся к семинарам 2, 3 и 4: семинар №1 проводился без использования Jupyter notebook 🙂
+Репозиторий с материалами курса "«Программирование на языке Python для сбора и анализа данных»".
 
 ## Полезные ссылки
 
@@ -21,7 +19,7 @@ Jupyter notebooks к семинарам с именами, включающим�
 * PyCharm: https://www.jetbrains.com/pycharm/download/
 * Git tutorial 1: https://learngitbranching.js.org/
 * Git tutorial 2: https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
-* GitHub (создавайте себе приватные репозитории, давайте доступ persdep): https://github.com/
+* GitHub: https://github.com/
 * GitHub student pack: https://education.github.com/pack
 * Рейтинг(и) языков программирования (и вообще можно глянуть что такое IEEE): https://spectrum.ieee.org/top-programming-languages
 * Бенчмарки языков программирования: https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/python3-gcc.html
@@ -35,6 +33,3 @@ Jupyter notebooks к семинарам с именами, включающим�
 * Itertools: https://docs.python.org/3/library/itertools.html
 * Exceptions hierarchy: https://docs.python.org/3/library/exceptions.html
 * Visual Studio Code: https://code.visualstudio.com/
-
-## Credits:
-* http://uneex.org/
